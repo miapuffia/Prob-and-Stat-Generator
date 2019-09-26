@@ -1,0 +1,5 @@
+#BarChart .chart-bar {
+	-fx-background-color: rgba(176,171,213,1);
+    -fx-border-color: black, black, black, black;
+    -fx-translate-x: 35px;
+}
