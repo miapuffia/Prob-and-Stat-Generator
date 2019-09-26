@@ -1,0 +1,21 @@
+#StackedBarChart .chart-bar {
+	-fx-background-color: transparent;
+	-fx-border-color: rgb(87, 87, 87);
+}
+
+#StackedBarChart .data0 {
+	visibility: hidden;
+}
+
+#StackedBarChart .data1 {
+	-fx-background-image: url("WhiskerBackground.png");
+	-fx-border-color: transparent;
+	-fx-background-position: bottom center;
+}
+
+#StackedBarChart .data4 {
+	-fx-background-image: url("WhiskerBackground.png");
+	-fx-border-color: transparent;
+	-fx-background-position: bottom center;
+	-fx-rotate: 180;
+}
